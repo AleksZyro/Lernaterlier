@@ -4,8 +4,13 @@ ich möchte Heute:
 1. Das Spielfeld umprogrammieren (sodass es nicht immer wieder gezeichnet werden muss)
 2. Die Schlange Die Geschwindigkeit des Spiels beim einsammeln von Äpfeln zu erhöhen (um jeden Apfel)
 3. Eine Highscore Anzeige einbauen
+[Anforderungsanalyse.Projekt 14.02.docx](https://github.com/user-attachments/files/18798929/Anforderungsanalyse.Projekt.14.02.docx)
+[Projektdokumentation.Snake (2).docx](https://github.com/user-attachments/files/18798931/Projektdokumentation.Snake.2.docx)
 
-   
+## Reflexion
+
+
+
 ## 24.01.2025
 ich möchte Heute:
 1. Die Spielfigur beim einsammeln von Äpfeln (Items) verlängern
