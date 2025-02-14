@@ -1,5 +1,12 @@
 # Lernaterlier
-24.01.2025
+## 14.02.2025
+ich möchte Heute:
+1. Das Spielfeld umprogrammieren (sodass es nicht immer wieder gezeichnet werden muss)
+2. Die Schlange Die Geschwindigkeit des Spiels beim einsammeln von Äpfeln zu erhöhen (um jeden Apfel)
+3. Eine Highscore Anzeige einbauen
+
+   
+## 24.01.2025
 ich möchte Heute:
 1. Die Spielfigur beim einsammeln von Äpfeln (Items) verlängern
 2. Soundeffekte beim einsammeln der Äpfel programmieren
