@@ -2,8 +2,8 @@
 ## 21.02.2025
 ich möchte Heute:
 1. Botond bei seinem Programmier Projekt (beim Pong Spiel) aushelfen.
-2. Ideen für ein neues gemeinsames Projektmit Botond sammeln.
-3. Projektdokumentation und Anforderungsanalyse zum neuen Projekt schreiben.
+2. Botond bei seinem Programmier Projekt (beim Pong Spiel) erweitern.
+3. Ideen für ein neues gemeinsames Projektmit Botond sammeln.
 
 ## Reflexion
 1.
