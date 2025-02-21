@@ -1,4 +1,15 @@
 # Lernaterlier
+## 21.02.2025
+ich möchte Heute:
+1. Ideen für ein neues Projekt sammeln.
+2. Neues Projekt gemeinsam mit Botond Anfangen
+3. Projektdokumentation und Anforderungsanalyse zum neuen Projekt schreiben
+
+## Reflexion
+1.
+2.
+3.
+
 ## 14.02.2025
 ich möchte Heute:
 1. Das Spielfeld umprogrammieren (sodass es nicht immer wieder gezeichnet werden muss)
