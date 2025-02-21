@@ -1,9 +1,9 @@
 # Lernaterlier
 ## 21.02.2025
 ich möchte Heute:
-1. Ideen für ein neues Projekt sammeln.
-2. Projektdokumentation und Anforderungsanalyse zum neuen Projekt schreiben
-3. Neues Projekt gemeinsam mit Botond Anfangen (erste 3 Anforderungen)
+1. Botond bei seinem Programmier Projekt (beim Pong Spiel) aushelfen.
+2. Ideen für ein neues gemeinsames Projektmit Botond sammeln.
+3. Projektdokumentation und Anforderungsanalyse zum neuen Projekt schreiben.
 
 ## Reflexion
 1.
