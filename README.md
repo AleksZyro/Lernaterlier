@@ -6,8 +6,8 @@ ich möchte Heute:
 3. Ideen für ein neues gemeinsames Projektmit Botond sammeln.
 
 ## Reflexion
-1.
-2.
+1. Ziel erreicht
+2. Ziel erreicht
 3.
 
 ## 14.02.2025
