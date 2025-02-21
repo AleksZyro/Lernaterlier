@@ -2,8 +2,8 @@
 ## 21.02.2025
 ich möchte Heute:
 1. Ideen für ein neues Projekt sammeln.
-2. Neues Projekt gemeinsam mit Botond Anfangen
-3. Projektdokumentation und Anforderungsanalyse zum neuen Projekt schreiben
+2. Projektdokumentation und Anforderungsanalyse zum neuen Projekt schreiben
+3. Neues Projekt gemeinsam mit Botond Anfangen (erste 3 Anforderungen)
 
 ## Reflexion
 1.
