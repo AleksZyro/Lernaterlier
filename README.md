@@ -1,4 +1,16 @@
-# Lernaterlier
+## Lernaterlier
+
+## 28.02.2025
+ich möchte Heute:
+1. YouTube Tutorialvideos zu Windowsforms ansehen.
+2. Eine Anforderungsanalyse für ein Passwort-Ratespiel schreiben
+3. Eine Projektdokumentation für ein Passwort-Ratespiel schreiben
+
+## Reflexion
+1.
+2.
+3.
+
 ## 21.02.2025
 ich möchte Heute:
 1. Botond bei seinem Programmier Projekt (beim Pong Spiel) aushelfen.
