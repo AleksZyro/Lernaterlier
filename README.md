@@ -7,10 +7,11 @@ ich möchte Heute:
 3. Eine Projektdokumentation für ein Passwort-Ratespiel schreiben
 
 ## Reflexion
-1.
-2.
-3.
-
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
+[Anforderungsanalyse und Projektdokumentation Passwortspiel mit Botond.docx](https://github.com/user-attachments/files/19030176/Anforderungsanalyse.und.Projektdokumentation.Passwortspiel.mit.Botond.docx)
+   
 ## 21.02.2025
 ich möchte Heute:
 1. Botond bei seinem Programmier Projekt (beim Pong Spiel) aushelfen.
