@@ -2,9 +2,9 @@
 
 ## 07.03.2025
 ich möchte Heute:
-1. Den Auftrag 0701 aus dem Modul 187 lösen und Abgeben.
-2. Den Auftrag 0702 aus dem Modul 187 lösen und Abgeben.
-3. Den Auftrag 0703 aus dem Modul 187 lösen und Abgeben.
+1. Den Auftrag 0701 aus dem Modul 187.
+2. Den Auftrag 0702 aus dem Modul 187.
+3. Den Auftrag 0703 aus dem Modul 187.
 
 ## Reflexion
 1.
