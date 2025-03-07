@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Den Auftrag 0703 aus dem Modul 187.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 28.02.2025
 ich möchte Heute:
