@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 07.08.2025: Nächstes Projekt (mit Hr. Csereklye) ist das Passwort-Spiel. Programm läuft bereits in der Console. Es soll als WindowsForms Applikation entwickelt werden. Und ev. visuelle Effekte für Erfolg und Misserfolg erhalten. Code auf GitHub pushen?
+  
 * 21.02.2025: Snake: Code-Vorschläge von mir sind eingebaut, kein Flackern mehr, Grenzen werden eingehalten. Heute bietet Hr. Nikolic Unterstützung beim Programmierprojekt von Hr. Csereklye. Als nächstes planen beide ein gemeinsames Projekt.
 Sie suchen beide Ideen für ein gmeinsames Programmierprojekt. Und werden ein GitHub-Repository ausprobieren für Zusammenarbeit.
 
