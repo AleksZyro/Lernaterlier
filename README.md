@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 14.03.2025
+ich möchte Heute:
+1. Ich möchte Heute den Auftrag 0704 aus dem Modul 187 lösen
+2. Windows Forms einrichten und eine Datei erstellen
+3. Ich möchte gemeinsam mit Botond das Programmierprojekt (das Passwortspiel) in ein Windows Forms umwandeln
+
+## Reflexion
+1.
+2.
+3.
+
 ## 07.03.2025
 ich möchte Heute:
 1. Den Auftrag 0701 aus dem Modul 187.
