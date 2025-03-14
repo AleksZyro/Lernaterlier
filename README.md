@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte gemeinsam mit Botond das Programmierprojekt (das Passwortspiel) in ein Windows Forms umwandeln
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
 
 ## 07.03.2025
 ich möchte Heute:
