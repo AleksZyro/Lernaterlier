@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 21.02.2025
+ich möchte Heute:
+1.
+2.
+3.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 14.03.2025
 ich möchte Heute:
 1. Ich möchte Heute den Auftrag 0704 aus dem Modul 187 lösen
