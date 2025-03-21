@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte Heute den Auftrag 0707 aus dem Modul 187 lösen.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 14.03.2025
 ich möchte Heute:
