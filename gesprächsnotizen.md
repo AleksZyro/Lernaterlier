@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 21.03.2025: Gemeinsam erstellen wir ein WindowsForms Projekt. Wir nutzen die Toolbox, daraus ein Label und einen Button, setzen Eigenschaften wir Text und Name und verbinden den Click-Event mit einer Methode. In dieser ändern wir den Text des Labels. So arbeiten die beiden Herren Csereklye und Nikolic alleine weiter am Passwort-Spiel.
+
 * 07.03.2025: Nächstes Projekt (mit Hr. Csereklye) ist das Passwort-Spiel. Programm läuft bereits in der Console. Es soll als WindowsForms Applikation entwickelt werden. Und ev. visuelle Effekte für Erfolg und Misserfolg erhalten. Code auf GitHub pushen?
   
 * 21.02.2025: Snake: Code-Vorschläge von mir sind eingebaut, kein Flackern mehr, Grenzen werden eingehalten. Heute bietet Hr. Nikolic Unterstützung beim Programmierprojekt von Hr. Csereklye. Als nächstes planen beide ein gemeinsames Projekt.
