@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Das Passwortspiel weiter schreiben (zusätzliches Spielmaterial in Form von neuen Fragen/Anforderungen)
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
 
 ## 21.02.2025
 ich möchte Heute:
