@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 28.03.2025
+ich möchte Heute:
+1. Am Modul 187 die Dokumentation weiterschreiben
+2. Das korrigierte Passwortspiel mit dem alten vergleichen
+3. Das Passwortspiel weiter schreiben (zusätzliches Spielmaterial in Form von neuen Fragen/Anforderungen)
+
+## Reflexion
+1.
+2.
+3.
+
 ## 21.02.2025
 ich möchte Heute:
 1. Am Input zu Windows Forms teilnehmen.
