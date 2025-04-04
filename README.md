@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 04.04.2025
+ich möchte Heute:
+1. Das Passwortspiel weiter schreiben (zusätzliches Spielmaterial in Form von neuen Fragen/Anforderungen)
+2. Am Modul 187 die Auftrag 2416 lösen
+3. Den Auftrag 2416 dokumentieren (bzw. in die Dokumentation integrieren)
+
+## Reflexion
+1.
+2.
+3.
+
 ## 28.03.2025
 ich möchte Heute:
 1. Am Modul 187 die Dokumentation weiterschreiben
