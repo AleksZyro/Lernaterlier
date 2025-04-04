@@ -1,5 +1,8 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 04.04.2025: Das Passwort-Game läuft und wird von den beiden weiterentwickelt. Aktuell suchen sie im Internet ein "Wort des Tages", welches der Benutzer oder die Benutzerin in das Passwort einbauen muss. Das Wort wird dann voraussichtlich mittels HTTP Get Request erfragt.<br><br>
+  Hr. Nikolic hat bereits Ideen für das nächste Projekt: Ein Mincraft Mod. Dazu recherchiert er, mit welcher Technik er dies erstellen kann (IDE, Framework, Sprache, ...). Ausserdem müsste er auch noch Zeit zum Zeichnen investieren. Ein reines Texture Patch habe er schon gemacht, damit sah ein Apfel im Spiel anders aus. Nun möchte er gerne Funktionalität ändern können.
+ 
 * 21.03.2025: Gemeinsam erstellen wir ein WindowsForms Projekt. Wir nutzen die Toolbox, daraus ein Label und einen Button, setzen Eigenschaften wir Text und Name und verbinden den Click-Event mit einer Methode. In dieser ändern wir den Text des Labels. So arbeiten die beiden Herren Csereklye und Nikolic alleine weiter am Passwort-Spiel.
 
 * 07.03.2025: Nächstes Projekt (mit Hr. Csereklye) ist das Passwort-Spiel. Programm läuft bereits in der Console. Es soll als WindowsForms Applikation entwickelt werden. Und ev. visuelle Effekte für Erfolg und Misserfolg erhalten. Code auf GitHub pushen?
