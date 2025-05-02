@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte den Auftrag 2424 aus dem Modul 106 lösen
 
 ## Reflexion
-1. 
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
 
 ## 04.04.2025
 ich möchte Heute:
