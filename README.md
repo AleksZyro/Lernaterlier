@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 02.05.2025
+ich möchte Heute:
+1. Ich möchte den Auftrag 2420 aus dem Modul 106 lösen
+2. Ich möchte den Auftrag 2422 aus dem Modul 106 lösen
+3. Ich möchte den Auftrag 2424 aus dem Modul 106 lösen
+
+## Reflexion
+1. 
+2.
+3.
+
 ## 04.04.2025
 ich möchte Heute:
 1. Das Passwortspiel weiter schreiben (zusätzliches Spielmaterial in Form von neuen Fragen/Anforderungen)
