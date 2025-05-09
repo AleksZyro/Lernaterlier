@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 09.05.2025: Hr. Csereklye und Hr. Nikolic haben ein API gefunden für das Wort des Tages. Sie haben nun aber Mühe, das aktuelle Datum sowie des Call auszulösen. Wir schauen uns das an und schreiben eine Methode. Den Teil mit dem API-Call schicke ich Ihnen auf Teams. Sie haben weitere Ideen wie Emojis, die sie ins Passwort einbauen möchten.
+
 * 04.04.2025: Das Passwort-Game läuft und wird von den beiden weiterentwickelt. Aktuell suchen sie im Internet ein "Wort des Tages", welches der Benutzer oder die Benutzerin in das Passwort einbauen muss. Das Wort wird dann voraussichtlich mittels HTTP Get Request erfragt.<br><br>
   Hr. Nikolic hat bereits Ideen für das nächste Projekt: Ein Mincraft Mod. Dazu recherchiert er, mit welcher Technik er dies erstellen kann (IDE, Framework, Sprache, ...). Ausserdem müsste er auch noch Zeit zum Zeichnen investieren. Ein reines Texture Patch habe er schon gemacht, damit sah ein Apfel im Spiel anders aus. Nun möchte er gerne Funktionalität ändern können.
  
