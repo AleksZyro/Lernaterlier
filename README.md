@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Gedanken zu einem neuen gemeinsamen Projekt machen
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel nicht erreicht
+2. Ziel nicht erreicht
+3. Ziel nicht erreicht
 
 ## 02.05.2025
 ich möchte Heute:
