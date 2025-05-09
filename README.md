@@ -2,9 +2,9 @@
 
 ## 09.05.2025
 ich möchte Heute:
-1.
-2.
-3.
+1. API hinzufügen
+2. Weitere Abfagen erstellen zb mit Emoji
+3. Gedanken zu einem neuen gemeinsamen Projekt machen
 
 ## Reflexion
 1.
