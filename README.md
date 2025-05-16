@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Modul 293 CSS besser kennenlernen
 
 ## Reflexion
-1.
-2.
-3.
+1.  Ziel nicht erreicht
+2.  Ziel nicht erreicht
+3. Ziel erreicht
 
 ## 09.05.2025
 ich möchte Heute:
