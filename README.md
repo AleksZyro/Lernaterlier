@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 16.05.2025
+ich möchte Heute:
+1. API hinzufügen
+2. Weitere Abfagen erstellen zb mit Emoji
+3. Modul 293 CSS besser kennenlernen
+
+## Reflexion
+1.
+2.
+3.
+
 ## 09.05.2025
 ich möchte Heute:
 1. API hinzufügen
