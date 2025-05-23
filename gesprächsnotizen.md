@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* Das Passwort-Spiel klappt unter Windows-Forms immer noch oder wieder nicht. Herr Csereklye oder Herr Nikolic schicken mir den Code, ich werde es anschauen. Die beiden Herren planen, bald mit einem neuen Projekt zu starten.
+
 * 09.05.2025: Hr. Csereklye und Hr. Nikolic haben ein API gefunden für das Wort des Tages. Sie haben nun aber Mühe, das aktuelle Datum sowie des Call auszulösen. Wir schauen uns das an und schreiben eine Methode. Den Teil mit dem API-Call schicke ich Ihnen auf Teams. Sie haben weitere Ideen wie Emojis, die sie ins Passwort einbauen möchten.
 
 * 04.04.2025: Das Passwort-Game läuft und wird von den beiden weiterentwickelt. Aktuell suchen sie im Internet ein "Wort des Tages", welches der Benutzer oder die Benutzerin in das Passwort einbauen muss. Das Wort wird dann voraussichtlich mittels HTTP Get Request erfragt.<br><br>
