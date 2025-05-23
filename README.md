@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 23.05.2025
+ich möchte Heute:
+1. Am Input teilnehmen
+2. Neuer versuch an der Form Datei für das Passwortspiel
+3. Ideen für ein neues gemeinsames Projekt suchen
+
+## Reflexion
+1.
+2.
+3.
+
 ## 16.05.2025
 ich möchte Heute:
 1. API hinzufügen
