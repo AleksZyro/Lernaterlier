@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 06.06.2025
+ich möchte Heute:
+1. Funktionalen Header und Navigation (in html datei) programmieren.
+2. Funktionalen Header und Navigation mit CSS stylesheets "verzieren"
+3. MockUp für die Website erstellen
+
+## Reflexion
+1.
+2.
+3.
+
 ## 23.05.2025
 ich möchte Heute:
 1. Am Input teilnehmen
