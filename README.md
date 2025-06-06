@@ -7,9 +7,9 @@ ich möchte Heute:
 3. MockUp für die Website erstellen
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel (teilweise) erreicht
+3. Ziel erreicht
 
 ## 23.05.2025
 ich möchte Heute:
