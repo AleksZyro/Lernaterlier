@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Darkmode für meine Website programmieren.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
 
 ## 06.06.2025
 ich möchte Heute:
