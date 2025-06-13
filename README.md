@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 13.06.2025
+ich möchte Heute:
+1. Funktionalen Header und Navigation mit CSS stylesheets "verzieren"
+2. MapFlix spielen ausprobieren
+3. Darkmode für meine Website programmieren.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 06.06.2025
 ich möchte Heute:
 1. Funktionalen Header und Navigation (in html datei) programmieren.
