@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 20.06.2025
+ich möchte Heute:
+1. Zuerst für das Modul 122 eine Entwicklerdokumentation schreiben
+2. Für das Modul 293 eine "Testseite" programmieren um zu Überprüfen ob mein MockUp so umsetzbar ist.
+3. Dann für das Modul 293 das MockUp verbessern und das Pflichtenheft anpassen
+
+## Reflexion
+1.
+2.
+3.
+
 ## 13.06.2025
 ich möchte Heute:
 1. Funktionalen Header und Navigation mit CSS stylesheets "verzieren"
