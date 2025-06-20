@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Dann für das Modul 293 das MockUp verbessern und das Pflichtenheft anpassen
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel nicht erreicht
+3. Ziel erreicht
 
 ## 13.06.2025
 ich möchte Heute:
