@@ -1,5 +1,16 @@
 ## Lernaterlier
 
+## 27.06.2025
+ich möchte Heute:
+1. Ich erstelle Heute eine Anforderungsanalyse für meine neue Android-App Idee erstellen.
+2. Fluter und Visual Studio code extensions für die App installieren und konfigurieren
+3. Dart installieren und konfigurieren
+
+## Reflexion
+1.
+2.
+3.
+
 ## 20.06.2025
 ich möchte Heute:
 1. Zuerst für das Modul 122 eine Entwicklerdokumentation schreiben
