@@ -1,10 +1,22 @@
-## Lernaterlier
+## Lernatelier
 
-## 27.06.2025
 ich möchte Heute:
 1. Ich erstelle Heute eine Anforderungsanalyse für meine neue Android-App Idee erstellen.
 2. Fluter und Visual Studio code extensions für die App installieren und konfigurieren
 3. Dart installieren und konfigurieren
+[Uploadi# Rückblick auf mein erstes Jahr an der BBB
+
+## Was habe ich im ersten Lehrjahr am meisten gelernt – fachlich und persönlich?
+- Ich ... habe am meisten über die Vorbereitung für Projekte gelernt, statt einfach direkt damit zu beginnen.
+
+## Auf diesen Erfolg bin ich besonders stolz
+- ... Ich bin besonders auf das Snake und das Passwortspiel, sowohl auch meine zusammenarbeit mit dem Lernendem Botond Csereklye stolz.
+
+## Das war meine grösste Herausforderung – und so bin ich damit umgegangen
+- ... Eine Website zu erstellen, umgegangen bin ich damit indem ich das Projekt abgebrochen habe.
+
+## Diese Gewohnheit oder Arbeitsweise hat mir geholfen
+- ... 3 Ziele zu definieren und eine Reflexion zu schreibenng Review_Jahr_1.md…]()
 
 ## Reflexion
 1.
