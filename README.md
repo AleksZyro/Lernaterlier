@@ -19,9 +19,9 @@ ich möchte Heute:
 - ... 3 Ziele zu definieren und eine Reflexion zu schreibenng Review_Jahr_1.md…]()
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 20.06.2025
 ich möchte Heute:
