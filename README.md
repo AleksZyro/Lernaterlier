@@ -10,9 +10,9 @@ ich möchte Heute:
 [Lernendentypeinschätzung.xlsx](https://github.com/user-attachments/files/21794280/Lernendentypeinschatzung.xlsx)
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 27.06.2025
 ich möchte Heute:
