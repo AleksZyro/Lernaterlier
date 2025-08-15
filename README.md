@@ -1,5 +1,20 @@
-## Lernatelier
+## Lernatelier ## 
 
+
+## 15.08.2025
+ich möchte Heute:
+1. Ich möchte Heute mein neues Projekt bezüglich der Android-App Idee weiterentwickeln
+2. Ich möchte Heute ein Gespräch mit Frau Rieder zur Ideenfindung für die App finden (optionaler Vorschlag, Buissness-angelehnt)
+3. Ich möchte Heute auch eine Anforderungsanalyse zu dieser Android-App Idee aufsetzen
+
+[Lernendentypeinschätzung.xlsx](https://github.com/user-attachments/files/21794280/Lernendentypeinschatzung.xlsx)
+
+## Reflexion
+1.
+2.
+3.
+
+## 27.06.2025
 ich möchte Heute:
 1. Ich erstelle Heute eine Anforderungsanalyse für meine neue Android-App Idee erstellen.
 2. Fluter und Visual Studio code extensions für die App installieren und konfigurieren
