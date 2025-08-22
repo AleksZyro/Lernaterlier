@@ -8,10 +8,12 @@ ich möchte heute:
 4. Zusatzziel) Crossovers mit Tim Spieluniversum planen
 
 ## Reflexion
-1.
-2.
-3.
-4.
+1. Ziel erreicht
+2. Ziel erreicht
+3. (3 Protagonisten) Ziel erreicht
+4. (kontinuirliches Ziel) aber für Heute Ziel erreicht
+<img width="1100" height="600" alt="PrototypMap" src="https://github.com/user-attachments/assets/c7f1f32b-ca4b-4f89-b4e2-a49fd3af2f29" />
+<img width="1100" height="600" alt="PrototypMap2" src="https://github.com/user-attachments/assets/2a7ccbcb-da62-4759-a64c-350afd4418b3" />
 
 ## 15.08.2025
 ich möchte Heute:
