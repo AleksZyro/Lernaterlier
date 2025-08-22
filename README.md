@@ -5,11 +5,13 @@ ich möchte heute:
 1. Eine Skizze und grobe Namensgebung und Ortschaften auf einer Spielkarte oder "Map" zeichnen.
 2. Technologien und Methoden zur Landschafts-/Kartenprogrammierung erforschen.
 3. Den Protagonisten beschreiben und eine Hintergrundgeschichte.
+** Zusatzziel ** Crossovers mit Tim Spieluniversum planen
 
 ## Reflexion
 1.
 2.
 3.
+4.
 
 ## 15.08.2025
 ich möchte Heute:
