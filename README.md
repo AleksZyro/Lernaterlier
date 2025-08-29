@@ -2,7 +2,7 @@
 
 ## 29.08.2025 
 ich möchte Heute:
-1. Folgende Unity Elemente herunterladen: Univseral 3D template, built-in: Terrain, Brush,  Unity Assetstore: Lowpoly Environment, Starter Assets-Firstperson
+1. Folgende Unity Elemente herunterladen: Univseral 3D template, built-in: Terrain, Brush,  Unity Assetstore: Lowpoly Environment, Starter Assets-Firstperson, PolyPeople Series, Free pack of medieval weapons, Lowpoly Medieval Skeleton, Excellent RPG Character Mecanim Animation Pack, Pixel Art Gem Pack - Animated
 2. Städtenamen für die ersten grössere Städte erstellen.
 3. Geschichte der 3 Protagonisten erweitern.
 
