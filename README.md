@@ -1,7 +1,18 @@
 ## Lernatelier ## 
 
+## 29.08.2025 
+ich möchte Heute:
+1. Folgende Unity Elemente herunterladen: Univseral 3D template, built-in: Terrain, Brush,  Unity Assetstore: Lowpoly Environment, Starter Assets-Firstperson
+2. Städtenamen für die ersten grössere Städte erstellen.
+3. Geschichte der 3 Protagonisten erweitern.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 22.08.2025
-ich möchte heute:
+ich möchte Heute:
 1. Eine Skizze und grobe Namensgebung und Ortschaften auf einer Spielkarte oder "Map" zeichnen.
 2. Technologien und Methoden zur Landschafts-/Kartenprogrammierung erforschen.
 3. Den Protagonisten beschreiben und eine Hintergrundgeschichte.
