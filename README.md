@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Geschichte der 3 Protagonisten erweitern.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 22.08.2025
 ich möchte Heute:
