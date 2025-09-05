@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 05.09.2025
+ich möchte Heute:
+1. Ich möchte die Characktere erweitern (zu den 3 Protagonisten noch Familie und Freunde) schreiben.
+2. Ich möchte diesen neuen Charackteren einwenig Hintergrundgeschichte schreiben.
+3. Ich möchte ein YouTube Tutorial zur UX Grafikerstellung ansehen.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 29.08.2025 
 ich möchte Heute:
 1. Folgende Unity Elemente herunterladen: Univseral 3D template, built-in: Terrain, Brush,  Unity Assetstore: Lowpoly Environment, Starter Assets-Firstperson, PolyPeople Series, Free pack of medieval weapons, Lowpoly Medieval Skeleton, Excellent RPG Character Mecanim Animation Pack, Pixel Art Gem Pack - Animated
