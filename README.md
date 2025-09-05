@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte ein YouTube Tutorial zur UX Grafikerstellung ansehen.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 29.08.2025 
 ich möchte Heute:
