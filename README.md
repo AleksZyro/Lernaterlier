@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Spielmenü UX zeichnen.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 05.09.2025
 ich möchte Heute:
