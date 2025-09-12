@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 12.09.2025
+ich möchte Heute:
+1. Aktuelle Liste der Namen (für die Städte, Höhlen und Gebirgsketten, Flüsse etc.) zusammentragen in ein Dokument.
+2. Diese Liste noch erweitern auf weitere Teile der Karte (bisher ist nur eine Insel mit den Namen versehen).
+3. Spielmenü UX zeichnen.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 05.09.2025
 ich möchte Heute:
 1. Ich möchte die Characktere erweitern (zu den 3 Protagonisten noch Familie und Freunde) schreiben.
