@@ -7,10 +7,10 @@ ich möchte Heute:
 3. Ich möchte die erste Stadt oder Siedlung der Insel erstellen
 
 ## Reflexion
-1.
-2.
-3.
-
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
+ 
 ## 12.09.2025
 ich möchte Heute:
 1. Aktuelle Liste der Namen (für die Städte, Höhlen und Gebirgsketten, Flüsse etc.) zusammentragen in ein Dokument.
