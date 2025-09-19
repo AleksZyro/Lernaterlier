@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 19.09.2025
+ich möchte Heute:
+1. Ich möchte Heute die Hauptinsel (die grösste) Kartengerecht erstellen.
+2. Ich möchte Nachforschungen zu einem "Questsystem" als Unity Erweiterung im Unity Asset Store treiben.
+3. Ich möchte die erste Stadt oder Siedlung der Insel erstellen
+
+## Reflexion
+1.
+2.
+3.
+
 ## 12.09.2025
 ich möchte Heute:
 1. Aktuelle Liste der Namen (für die Städte, Höhlen und Gebirgsketten, Flüsse etc.) zusammentragen in ein Dokument.
