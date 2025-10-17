@@ -1,5 +1,17 @@
 ## Lernatelier ## 
 
+## 17.10.2025
+ich möchte Heute:
+1. 5 Tipps für die BBB (für das Willkommensvideo aufschreiben)
+2. Ich möchte Heute die Hauptinsel (die grösste) Kartengerecht erstellen;
+Mir sind ein paar Fehler auf der Insel aufgefallen und ich möchte sie ausbessern.
+3. Ich möchte den zentralen See Kartengerecht erstellen.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 19.09.2025
 ich möchte Heute:
 1. Ich möchte Heute die Hauptinsel (die grösste) Kartengerecht erstellen.
