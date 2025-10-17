@@ -8,9 +8,9 @@ Mir sind ein paar Fehler auf der Insel aufgefallen und ich möchte sie ausbesser
 3. Ich möchte den zentralen See Kartengerecht erstellen.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel nicht erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
 
 ## 19.09.2025
 ich möchte Heute:
