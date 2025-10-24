@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte die Bewegungen und Kamera (Perspektive und Bewegungen des Spielers) programmiern (Unity läuft über C#)
 
 ## Relfexion
-1.
-2.
-3.
+1. Ziel nicht erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 17.10.2025
 ich möchte Heute:
