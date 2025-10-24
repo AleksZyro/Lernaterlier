@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 24.10.2025
+ich möchte Heute:
+1. Meine Github Struktur verändern (Das Videospiel bekommt seine eigene Readme Datei bzw wird es vom Rest des Githubs getrennt)
+2. Ich möchte Heute die Hauptinsel (die grösste) Kartengerecht erstellen
+3. Ich möchte die Bewegungen und Kamera (Perspektive und Bewegungen des Spielers) programmiern (Unity läuft über C#)
+
+## Relfexion
+1.
+2.
+3.
+
 ## 17.10.2025
 ich möchte Heute:
 1. 5 Tipps für die BBB (für das Willkommensvideo aufschreiben)
