@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 31.10.2025
+ich möchte Heute:
+1. Meine Github Struktur verändern (Das Videospiel bekommt seine eigene Readme Datei bzw wird es vom Rest des Githubs getrennt)
+2. Bei der Frau Rapisarda eine Besprechung bezüglich der Note im Modul 322 beantragen. (auch eine kurze Besprechung mit Frau Rieder).
+3. Beim Input zur Objektorientierterprogrammierung (OOP) teilnehmen.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 24.10.2025
 ich möchte Heute:
 1. Meine Github Struktur verändern (Das Videospiel bekommt seine eigene Readme Datei bzw wird es vom Rest des Githubs getrennt)
