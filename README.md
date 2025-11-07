@@ -8,9 +8,9 @@ ich möchte Heute:
 3. Die ersten Interaktionen zwischen Spielern und konfigurierten NPC's einrichten (kleiner Dialog zum testen).
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 31.10.2025
 ich möchte Heute:
