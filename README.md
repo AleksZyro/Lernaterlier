@@ -1,5 +1,17 @@
 ## Lernatelier ## 
 
+## 07.11.2025
+ich möchte Heute:
+1. Frau Rapisarda über Teams kontaktieren, falls möglich Frau Rieder als Referenzperson aufgrund der OBA abgabe miteinbeziehen 
+(falls die Antwort Heute ankommt) das werde ich auch mit dem Mitschüler Andrin Maag durchführen.
+2. Weitere Inseln der Karte hinzufügen.
+3. Die ersten Interaktionen zwischen Spielern und konfigurierten NPC's einrichten (kleiner Dialog zum testen).
+
+## Reflexion
+1.
+2.
+3.
+
 ## 31.10.2025
 ich möchte Heute:
 1. Meine Github Struktur verändern (Das Videospiel bekommt seine eigene Readme Datei bzw wird es vom Rest des Githubs getrennt)
