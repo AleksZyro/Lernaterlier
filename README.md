@@ -2,9 +2,9 @@
 
 ## 14.11.2025
 ich möchte Heute:
-1. Ich muss mein 3D Spielprojekt einstellen da ich über keine Graffikkarte verfüge und das Spiel zu aufwendig auf meinem Gerät laufen würde
-2.
-3.
+1. Ich muss mein 3D Spielprojekt einstellen da ich über keine Graffikkarte verfüge und das Spiel zu aufwendig auf meinem Gerät laufen würde und beginne mit einer 2D Version.
+2. Ich möchte mein GitHub mit einem weiteren GitHub bestücken.
+3. Ich möchte ein passendes "Tileset" (Grafik bzw. aussehen von einer Palette) finden.
 
 ## Reflexion
 1.
