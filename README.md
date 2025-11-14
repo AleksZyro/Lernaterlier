@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte ein passendes "Tileset" (Grafik bzw. aussehen von einer Palette) finden.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel nicht erreicht
+3. Ziel erreicht
 
 ## 07.11.2025
 ich möchte Heute:
