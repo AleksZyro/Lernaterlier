@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 14.11.2025
+ich möchte Heute:
+1. Ich muss mein 3D Spielprojekt einstellen da ich über keine Graffikkarte verfüge und das Spiel zu aufwendig auf meinem Gerät laufen würde
+2.
+3.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 07.11.2025
 ich möchte Heute:
 1. Frau Rapisarda über Teams kontaktieren, falls möglich Frau Rieder als Referenzperson aufgrund der OBA abgabe miteinbeziehen 
