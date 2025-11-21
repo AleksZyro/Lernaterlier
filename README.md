@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 21.11.2025
+ich möchte Heute:
+1. Am Modul 294 arbeiten (genauer gesagt am Auftrag 8472)
+2. Ich möchte meine Portfolio Website erstellen.
+3. Ich möchte meine Portfolio Website mit einem CSS verbinden.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 14.11.2025
 ich möchte Heute:
 1. Ich muss mein 3D Spielprojekt einstellen da ich über keine Graffikkarte verfüge und das Spiel zu aufwendig auf meinem Gerät laufen würde und beginne mit einer 2D Version.
