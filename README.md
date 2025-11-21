@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte meine Portfolio Website mit einem CSS verbinden.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 14.11.2025
 ich möchte Heute:
