@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 14.11.2025: Hr. Nikolic: Muss sein 3D Game in Unity auf 2D ändern. Wir besprechen, was er behalten kann und welche Vorlage er nehmen möchte. Ausserdem, wozu ein GitHub Repository gut wäre, wie es funktioniert und dass er sein Projekt als eigenes Repo anlegen sollte.
+
 * 23.05.2025: Das Passwort-Spiel klappt unter Windows-Forms immer noch oder wieder nicht. Herr Csereklye oder Herr Nikolic schicken mir den Code, ich werde es anschauen. Die beiden Herren planen, bald mit einem neuen Projekt zu starten.
 
 * 09.05.2025: Hr. Csereklye und Hr. Nikolic haben ein API gefunden für das Wort des Tages. Sie haben nun aber Mühe, das aktuelle Datum sowie des Call auszulösen. Wir schauen uns das an und schreiben eine Methode. Den Teil mit dem API-Call schicke ich Ihnen auf Teams. Sie haben weitere Ideen wie Emojis, die sie ins Passwort einbauen möchten.
