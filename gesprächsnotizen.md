@@ -2,6 +2,18 @@
 
 * 14.11.2025: Hr. Nikolic: Muss sein 3D Game in Unity auf 2D ändern. Wir besprechen, was er behalten kann und welche Vorlage er nehmen möchte. Ausserdem, wozu ein GitHub Repository gut wäre, wie es funktioniert und dass er sein Projekt als eigenes Repo anlegen sollte.
 
+* 31.10.2025: Teilnahme am Input zu Objektorientierter Programmierung.
+
+* 17.10.2025: Wir besprechen das aktualle Unitiy Projekt mit Hr. Nikolic:
+  * Typ des Unity Games: 3D.
+  * Hr. Nikolic zeichnet eine Karte für das spiel mit Paint 3D und modelliert sie weiter in Unity mit einem Tool.
+  * Er plant Inseln und Gebiete und hat Namen für alle Orte sowie für diverse Charaktere.
+  * Die Darstellung für Figuren und Objekte plant er aus freien Bibliotheken zu verwenden.
+  * Wir besprechen, dass ein eigenes Repo auf GitHub dafür sinnvoll wäre.
+  * Herr Nikolic hat noch nicht mit programmieren begonnen. Erst entworfen und gezeichnet. Ich empfehle ihm, damit zu beginnen, um erste Erfahrungen zu sammeln und zu erkennen, was er wie aus seinen Skizzen einbinden kann.
+
+* 15.08.2025 bis 19.09.2025: Ausführliche Gespräche zur Selbsteinschätzung Lernendentyp mit allen Lernenden.
+
 * 23.05.2025: Das Passwort-Spiel klappt unter Windows-Forms immer noch oder wieder nicht. Herr Csereklye oder Herr Nikolic schicken mir den Code, ich werde es anschauen. Die beiden Herren planen, bald mit einem neuen Projekt zu starten.
 
 * 09.05.2025: Hr. Csereklye und Hr. Nikolic haben ein API gefunden für das Wort des Tages. Sie haben nun aber Mühe, das aktuelle Datum sowie des Call auszulösen. Wir schauen uns das an und schreiben eine Methode. Den Teil mit dem API-Call schicke ich Ihnen auf Teams. Sie haben weitere Ideen wie Emojis, die sie ins Passwort einbauen möchten.
