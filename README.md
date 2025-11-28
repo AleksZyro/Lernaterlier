@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 28.11.2025
+ich möchte Heute:
+1. Ich möchte an der (Partnerarbeit) AWS LB arbeiten.
+2. Ich möchte an der (Einzelarbeit) AWS LB arbeiten.
+3. Ich möchte die CSS Datei erweitern für die Portfolio Website
+
+## Reflexion
+1.
+2.
+3.
+
 ## 21.11.2025
 ich möchte Heute:
 1. Am Modul 294 arbeiten (genauer gesagt am Auftrag 8472)
