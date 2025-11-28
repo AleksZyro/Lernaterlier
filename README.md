@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte die CSS Datei erweitern für die Portfolio Website
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht (weiter aber noch nicht fertig)
+3. Ziel erreicht
 
 ## 21.11.2025
 ich möchte Heute:
