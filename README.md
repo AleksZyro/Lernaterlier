@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 12.12.2025
+ich möchte Heute:
+1. Ich möchte die Beiden Code of Advent challenges vom 1.12.2025 lösen.
+2. Ich möchte Heute das "Scrum Fundamentals" online Zertifikat abschliessen und bestehen.
+3. Ich möchte Heute das "Cisco – Introduction to Cybersecurity" online Zertifikat abschliessen und bestehen.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 28.11.2025
 ich möchte Heute:
 1. Ich möchte an der (Partnerarbeit) AWS LB arbeiten.
