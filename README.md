@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte Heute das "Cisco – Introduction to Cybersecurity" online Zertifikat abschliessen und bestehen.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 28.11.2025
 ich möchte Heute:
