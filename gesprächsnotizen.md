@@ -1,5 +1,11 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 19.12.2025: Hr. Nikolic arbeitet an einigen Projekten:
+  * Er erarbeitet sich ein Certifikat im Bereich Cyber Security bei tryhackme.com. Die Idee kam nach dem Interview letzte Woche und dem Hinweis, dass es diverse Angebote im Internet diesbezüglich gäbe. Herr Nikolic strebt einen Job in diesem Bereich an.
+  * adventofcode von heute.
+  * Das Unity-Game ruht im Moment zugunsten von Cyber Security.
+  * Die Portfolio-Website beinhaltet einen Teil über ihn selber sowie Slots für Projekte. Diese müssen noch gefüllt werden. Ich empfehle ihm, eine Zeitplan zu erstellen und sich Gedanken zu machen, wann die Site fertig sein soll, welche Projekte darauf vorgestellt werden sollten und wie. Gerne würde er ein Analytics erstellen, um Besucher der Site zu ermitteln.
+
 * 14.11.2025: Hr. Nikolic: Muss sein 3D Game in Unity auf 2D ändern. Wir besprechen, was er behalten kann und welche Vorlage er nehmen möchte. Ausserdem, wozu ein GitHub Repository gut wäre, wie es funktioniert und dass er sein Projekt als eigenes Repo anlegen sollte.
 
 * 31.10.2025: Teilnahme am Input zu Objektorientierter Programmierung.
