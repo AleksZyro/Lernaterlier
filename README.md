@@ -1,5 +1,14 @@
 ## Lernatelier ## 
 
+## 19.12.2025
+ich möchte Heute:
+1. Ich möchte die Beiden Advent of Code challanges vom 19.12.2025 lösen
+2. Ich möchte Heute das "TryHackMe – “Cyber Security 101”" online Zertifikat abschliessen und bestehen (geschätzte Dauer auf etwa 8 Lektionen)
+
+## Reflexion 
+1.
+2.
+
 ## 12.12.2025
 ich möchte Heute:
 1. Ich möchte die Beiden Code of Advent challenges vom 1.12.2025 lösen.
