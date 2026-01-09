@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 09.01.2025
+ich möchte Heute:
+1. Das gemeinsame Projekt mit dem Mitschüler Andrin Maag (Minecraft Mod mit dem Namen "Useless Mobs Reworked (UMR)" beginnen) und dazu eine Mobliste erstellen, welche bearbeitet werden soll.
+2. Die Mobliste soll mit neuen Funktionen/Verhalten/Items/Interaktionen erweitert werden.
+3. IDE (bestimmen wir im Verlaufe des Unterrichts) soll eingerichtet werden.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 19.12.2025
 ich möchte Heute:
 1. Ich möchte die Beiden Advent of Code challanges vom 19.12.2025 lösen
