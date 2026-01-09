@@ -7,9 +7,9 @@ ich möchte Heute:
 3. IDE (bestimmen wir im Verlaufe des Unterrichts) soll eingerichtet werden.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
 
 ## 19.12.2025
 ich möchte Heute:
