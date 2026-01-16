@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 16.01.2026
+ich möchte Heute:
+1. IDE/Grafikprogramm bestimmen und konfigurieren.
+2. Bedienungsanleitungen für Grafikprogramm (Aleks) und IDE (Andrin) erstellen.
+3. Mobliste verfeinern.
+
+## Reflexion
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
+
 ## 09.01.2025
 ich möchte Heute:
 1. Das gemeinsame Projekt mit dem Mitschüler Andrin Maag (Minecraft Mod mit dem Namen "Useless Mobs Reworked (UMR)" beginnen) und dazu eine Mobliste erstellen, welche bearbeitet werden soll.
