@@ -3,7 +3,7 @@
 ## 23.01.2026
 ich möchte Heute:
 1. Modul 295 nacharbeiten.
-2. IDE nochmals anschauen wie man genau Grafiken animiert.
+2. Wie man das Grafikprogramm (GIMP) für Animationen verwendet.
 3. Bedienungs Anleitungen austauschen.
 
 ## Reflexion
