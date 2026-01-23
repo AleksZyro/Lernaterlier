@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 23.01.2026
+ich möchte Heute:
+1. Modul 295 nacharbeiten.
+2. IDE nochmals anschauen wie man genau Grafiken animiert.
+3. Bedienungs Anleitungen austauschen.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 16.01.2026
 ich möchte Heute:
 1. IDE/Grafikprogramm bestimmen und konfigurieren.
