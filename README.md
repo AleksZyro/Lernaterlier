@@ -8,9 +8,9 @@ ich möchte Heute:
 damit wir unser Projekt der UMR (Useless Mobs Reworked) programmieren.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 23.01.2026
 ich möchte Heute:
