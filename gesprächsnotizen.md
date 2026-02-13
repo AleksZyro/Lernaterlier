@@ -1,5 +1,10 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 13.02.2026: Gemeinsam mit Hr. Maag besprechen wir das aktuelle Programmierprojekt. Beide sind weiterhin sehr motiviert, Mods (Modifications) für Minecraft zu entwickeln:
+  * Sie zeigen mir einerseits eine Textur, die sie für ein bestehendes Objekt (in Gimp) gezeichnet haben. Hier besteht das Problem, dass sie den Hintergrund noch nicht transparent speichern konnten.
+  * In Intellij IDEA von NetBrains entwickeln sie neue Figuren. Mit z. B. Moves (Bewegungen), Texturen (klappt noch nicht) und Drop Items. Diese Figuren werden als jar files abgelegt. Minecraft Forge erstellt für die Integration passende Ablageorte. Das haben sie bisher noch nicht getestet. Start nur aus IDE heraus.
+  * Mit der Portfolio-Website haben beide begonnen. Ich rate, sich Gedanken zu machen zu Projekten, die sie dort präsentieren möchten und in welcher Form.
+
 * 19.12.2025: Hr. Nikolic arbeitet an einigen Projekten:
   * Er erarbeitet sich ein Certifikat im Bereich Cyber Security bei tryhackme.com. Die Idee kam nach dem Interview letzte Woche und dem Hinweis, dass es diverse Angebote im Internet diesbezüglich gäbe. Herr Nikolic strebt einen Job in diesem Bereich an.
   * adventofcode von heute.
