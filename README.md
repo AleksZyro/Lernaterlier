@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 13.02.2026
+ich möchte Heute:
+1.
+2.
+3.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 23.01.2026
 ich möchte Heute:
 1. Modul 295 nacharbeiten.
