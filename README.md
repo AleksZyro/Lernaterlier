@@ -4,7 +4,8 @@
 ich möchte Heute:
 1. Prüfungsvorbereitungen (LA_347_0056 | LA_347_0047) vom Modul 347 lösen.
 2. LA_347_5026/LA_3052/LA_2061 für das Modul 347 lösen.
-3. Mit dem Mitschüler Andrin Maag das Grundgerüst (also noch ohne Funktionen) auf beiden Geräten einrichten, damit wir unser Projekt der UMR (Useless Mobs Reworked) programmieren.
+3. Mit dem Mitschüler Andrin Maag das Grundgerüst (also noch ohne Funktionen) auf beiden Geräten einrichten, 
+damit wir unser Projekt der UMR (Useless Mobs Reworked) programmieren.
 
 ## Reflexion
 1.
