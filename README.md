@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 20.02.2026
+ich möchte Heute:
+1. ich werde meine Portfolio Website anpassen (Anzahl Projekt-kacheln minimieren) und CSS anpassen.
+2. ich werde auf meiner Portfolio Seite eine Übersetzung in verschiedenen Sprachen anbieten (aber nicht hardcodete Varianten suchen!).
+3. ich werde Heute das Nachweis Video für das Modul M114 für den Mittwoch aufnehmen und an Herr Meyer senden.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 13.02.2026
 ich möchte Heute:
 1. Prüfungsvorbereitungen (LA_347_0056 | LA_347_0047) vom Modul 347 lösen.
