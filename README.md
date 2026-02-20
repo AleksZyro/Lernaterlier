@@ -8,7 +8,7 @@ ich möchte Heute:
 
 ## Reflexion
 1. Ziel erreicht
-2. noch offen
+2. Ziel nicht erreicht
 3. Ziel erreicht
 
 ## 13.02.2026
