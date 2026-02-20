@@ -7,9 +7,9 @@ ich möchte Heute:
 3. ich werde Heute das Nachweis Video für das Modul M114 für den Mittwoch aufnehmen und an Herr Meyer senden.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. noch offen
+3. Ziel erreicht
 
 ## 13.02.2026
 ich möchte Heute:
