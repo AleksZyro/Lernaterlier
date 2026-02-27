@@ -8,9 +8,9 @@ ich möchte heute:
 *4.* Ich konnte in der Freizeit eine Art zum übersetzen in die anderen Sprachen können
 
 ## Reflexion
-1.
-2. 
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 *4.* Ziel erreicht
 
 ## 20.02.2026
