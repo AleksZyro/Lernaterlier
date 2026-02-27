@@ -1,5 +1,18 @@
 ## Lernatelier ## 
 
+## 27.02.2026
+ich möchte heute:
+1. Ich möchte ein Projekt in die Portfolio Webseite integrieren
+2. Expertenziele 1725 vom Modul 114 lösen.
+3. Ich möchte Heute die Textur der Shadowbat korrigieren und den Skin des Blue slimes erstellen
+*4.* Ich konnte in der Freizeit eine Art zum übersetzen in die anderen Sprachen können
+
+## Reflexion
+1.
+2. 
+3.
+*4.* Ziel erreicht
+
 ## 20.02.2026
 ich möchte Heute:
 1. ich werde meine Portfolio Website anpassen (Anzahl Projekt-kacheln minimieren) und CSS anpassen.
