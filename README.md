@@ -1,7 +1,18 @@
 ## Lernatelier ## 
 
+## 06.03.2026
+ich möchte Heute:
+1. YouTube tutorials zu Java basics ansehen
+2. Projekt UMR mit Andrin Maag dem "Slime" Mob 3 neue Klassen implementieren: Angriffsmethode , HP, Damage
+3. Meinem privatem Projekt CGTC ein neues Interface mit custom commands implementieren
+
+## Reflexion
+1.
+2.
+3.  
+
 ## 27.02.2026
-ich möchte heute:
+ich möchte Heute:
 1. Ich möchte ein Projekt in die Portfolio Webseite integrieren
 2. Expertenziele 1725 vom Modul 114 lösen.
 3. Ich möchte Heute die Textur der Shadowbat korrigieren und den Skin des Blue slimes erstellen
