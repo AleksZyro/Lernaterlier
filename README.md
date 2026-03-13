@@ -4,13 +4,13 @@
 ich möchte Heute:
 1. Code verfeinerung und leichte Anpassungen am "Slime" Mob verrichten.
 2. Am Projekt UMR mit Andrin Maag gemeinsam das nächste Mob (genauere Bestimmung nach kurzer Besprechung 13:30) zeichnen und programmieren.
-3. Beta Version meines privaten Projektes CGTC und das Projekt zum Heimatschutz auf meine Portfolio Webseite erstellen.
+3. Beta Version meines privaten Projektes CGTC und das Projekt zum Heimatschutz auf meiner Portfolio Webseite erstellen.
 4. Ein Github Repository mit Andrin Maag und mir als Ownern und einer ReadMe Datei einzurichten.
 
 ## Reflexion
 1. Ziel erreicht
-2.
-3.
+2. Ziel nicht erreicht
+3. Ziel erreicht
 4. Ziel erreicht
 
 ## 06.03.2026
