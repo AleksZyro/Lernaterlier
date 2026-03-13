@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 13.03.2026
+ich möchte Heute:
+1. Beta Version meines privaten Projektes CGTC und das Projekt zum Heimatschutz auf meine Portfolio Webseite erstellen.
+2. Am Projekt UMR mit Andrin Maag gemeinsam das nächste Mob (genauere Bestimmung nach kurzer Besprechung 13:30) zeichnen und programmieren.
+3.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 06.03.2026
 ich möchte Heute:
 1. YouTube tutorials zu Java basics ansehen
