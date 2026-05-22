@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 22.05.2026
+ich möchte Heute:
+1. Für das Projekt Heimatschutz eine Offerte erstellen und 
+2. Mit dem Mitschüler Andrin Maag am Projekt UMR (Useless Mobs Reworked) arbeiten (aktualisierte Mobliste bearbeiten, konkreteres im verlaufe des Nachmittags)
+3. An meinem privaten Github Projekt BESP weiter arbeiten (Phase 5.9 und Phase 6 der Dokumentation erledigen)
+
+## Reflexion
+1.
+2.
+3.
+
 ## 13.03.2026
 ich möchte Heute:
 1. Code verfeinerung und leichte Anpassungen am "Slime" Mob verrichten.
