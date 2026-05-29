@@ -9,9 +9,9 @@ ich möchte Heute:
 5. Mit Frau Rieder ein Gespräch bezüglich der Referenzpersonenangabe auf den Bewerbungsunterlagen
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht  
 4. Ziel erreicht
 5. Ziel erreicht
 
