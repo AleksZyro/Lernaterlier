@@ -1,8 +1,23 @@
 ## Lernatelier ## 
 
+## 29.05.2026
+ich möchte Heute:
+1. Ich möchte ein eigenes Projekt in der Richtung Cybersecurity anfangen und die Dokumentation in ein eigenes Repository stellen.
+2. Mit Andrin Maag und Botond Csereklye das Github Repository vom Projekt Heimatschutz aktualisieren und Benutzeranleitungen zweisprachig erstellen.
+3. Mit Andrin Maag und Botond Csereklye das Projekt vom BBB Hackathon für die finish-up-a-thon DEV challenge analysieren und Änderungen Dokumentieren
+4. Ich möchte mit Botond Csereklye und der Frau Rieder ein Gespräch bezüglich unseren neuen Erkenntnissen über die DEV organisation und ihrer finish-up-a-thon Challenge führen.
+5. Mit Frau Rieder ein Gespräch bezüglich der Referenzpersonenangabe auf den Bewerbungsunterlagen
+
+## Reflexion
+1.
+2.
+3.
+4. Ziel erreicht
+5. Ziel erreicht
+
 ## 22.05.2026
 ich möchte Heute:
-1. Für das Projekt Heimatschutz eine Offerte erstellen und 
+1. Für das Projekt Heimatschutz eine Offerte erstellen 
 2. Mit dem Mitschüler Andrin Maag am Projekt UMR (Useless Mobs Reworked) arbeiten (aktualisierte Mobliste bearbeiten, konkreteres im verlaufe des Nachmittags)
 3. An meinem privaten Github Projekt BESP weiter arbeiten (Phase 5.9 und Phase 6 der Dokumentation erledigen)
 
