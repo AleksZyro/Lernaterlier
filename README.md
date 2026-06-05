@@ -1,17 +1,28 @@
 ## Lernatelier ## 
 
+## 05.06.2026
+ich möchte Heute:
+1. Das VSW Projekt mit Botond Csereklye von Terminalausführung zu einer Browser extension erweitern.
+2. Mein privates Projekt BESP debuggen und mapfixes aus der dokumentierten Phase 9 durchführen.
+3. Mein privates Projekt BESP auf Phase 10 erweitern.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 29.05.2026
 ich möchte Heute:
-1. Ich möchte ein eigenes Projekt in der Richtung Cybersecurity anfangen und die Dokumentation in ein eigenes Repository stellen.
+1. Ich möchte einem Projekt in der Richtung Cybersecurity von Botond Csereklye beitreten und arbeiten (VSW). 
 2. Mit Andrin Maag und Botond Csereklye das Github Repository vom Projekt Heimatschutz aktualisieren und Benutzeranleitungen zweisprachig erstellen.
-3. Mit Andrin Maag und Botond Csereklye das Projekt vom BBB Hackathon für die finish-up-a-thon DEV challenge analysieren und Änderungen dokumentieren
+3. Mit Andrin Maag und Botond Csereklye das Projekt vom BBB Hackathon für die finish-up-a-thon DEV challenge analysieren und Änderungen dokumentieren.
 4. Ich möchte mit Botond Csereklye und der Frau Rieder ein Gespräch bezüglich unseren neuen Erkenntnissen über die DEV organisation und ihrer finish-up-a-thon Challenge führen.
-5. Mit Frau Rieder ein Gespräch bezüglich der Referenzpersonenangabe auf den Bewerbungsunterlagen
+5. Mit Frau Rieder ein Gespräch bezüglich der Referenzpersonenangabe auf den Bewerbungsunterlagen.
 
 ## Reflexion
 1. Ziel erreicht
 2. Ziel erreicht
-3. Ziel erreicht  
+3. Ziel nicht erreicht  
 4. Ziel erreicht
 5. Ziel erreicht
 
