@@ -1,5 +1,15 @@
 ## Lernatelier ## 
 
+
+## 12.06.2026
+ich möchte Heute:
+1. Gespräch mit Mediamatikern durchführen.
+2. Bei meinem privaten Projekt BESP Phase 11 schreiben/entwickeln
+
+## Relfexion
+1. Ziel erreicht
+2. Ziel erreicht
+
 ## 05.06.2026
 ich möchte Heute:
 1. Das VSW Projekt mit Botond Csereklye von Terminalausführung zu einer Browser extension erweitern.
