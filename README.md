@@ -1,5 +1,13 @@
 ## Lernatelier ## 
 
+## 19.06.2026
+ich möchte Heute:
+1. Das Gespräch bezüglich des Projekt Heimatschutzes halten
+2. Mögliche Verbesserungen aufschreiben und dokumentieren
+
+## Reflexion
+1. Ziel erreicht
+2. Ziel erreicht
 
 ## 12.06.2026
 ich möchte Heute:
