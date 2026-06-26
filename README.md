@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 26.06.2026
+ich möchte Heute:
+1. Heute mit Andrin und Botond Anleitungen für das Projekt Heimatschutz erstellen
+2. Heute für das UMR Projekt (Minecraft Mod) ein Squid Modell zeichnen
+3. VSW Cybersecurity Tool mit Botond verbessern (Browser extension ist noch verbuggt und Benutzerfreundlichkeit ist mit improvisierter UI versehen)
+
+## Reflexion
+1.
+2.
+3.
+
 ## 19.06.2026
 ich möchte Heute:
 1. Das Gespräch bezüglich des Projekt Heimatschutzes halten
