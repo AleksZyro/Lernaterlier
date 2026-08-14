@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 14.08.2026
+ich möchte Heute:
+1. Portfolio Website mit neustem Stand von Heimatschutz inkl. Kundenfeedback etc
+2. Mit Andrin Maag, den UMR-MOd Github Stand aktualisieren (neue Funktionen, skins etc)
+3. Bewerbungsunterlagen aktualisieren
+
+## Reflexion
+1.
+2.
+3.
+
 ## 26.06.2026
 ich möchte Heute:
 1. Heute mit Andrin und Botond Anleitungen für das Projekt Heimatschutz erstellen
