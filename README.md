@@ -6,12 +6,14 @@ ich möchte Heute:
 2. Ich migriere Heute meine Website von Netlify auf meine eigene Domain und hoste diese über CloudFlare
 3. Ich arbeite an meinem Kundenprojekt für Aargo Clean GMBH weiter
 4. Ich beginne Heute mit dem Bewerben, 3 Schriftliche Bewerbungen und 3 Spontanbewerbungen per Telefonat.
+5. Einen Schlüssel eines absofort.ch Kurses beim Herr Fiechter beantragen.
 
 ## Reflexion
 1.
 2.
 3.
-4.
+4. 
+5. Ziel erreicht
 
 ## 14.08.2026
 ich möchte Heute:
