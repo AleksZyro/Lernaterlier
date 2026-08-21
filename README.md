@@ -1,9 +1,22 @@
 ## Lernatelier ## 
 
+## 21.08.2026
+ich möchte Heute:
+1. Ich erstelle Heute das Allay-Skin Modell für die UMR-Mod
+2. Ich migriere Heute meine Website von Netlify auf meine eigene Domain und hoste diese über CloudFlare
+3. Ich arbeite an meinem Kundenprojekt für Aargo Clean GMBH weiter
+4. Ich beginne Heute mit dem Bewerben, 3 Schriftliche Bewerbungen und 3 Spontanbewerbungen per Telefonat.
+
+## Reflexion
+1.
+2.
+3.
+4.
+
 ## 14.08.2026
 ich möchte Heute:
 1. Portfolio Website mit neustem Stand von Heimatschutz inkl. Kundenfeedback etc
-2. Mit Andrin Maag, den UMR-MOd Github Stand aktualisieren (neue Funktionen, skins etc)
+2. Mit Andrin Maag, den UMR-Mod Github Stand aktualisieren (neue Funktionen, skins etc)
 3. Bewerbungsunterlagen aktualisieren
 
 ## Reflexion
