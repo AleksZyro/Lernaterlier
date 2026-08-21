@@ -1,5 +1,10 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 21.08.2026:
+  * Die Bewerbung für das Praktikum steht im Moment im Vordergrund bei Herrn Nikolic. Er hat 5 Telefonanrufe gemacht im Rahmen von Spontanbewerbungen. Ansonsten sind seine Unterlagen noch nicht vollständig: Das Begleitschreiben und die Portfolio-Website sind nicht fertig. Er versucht, zu priorisieren und die Site fertig zu stellen. Und zu zügeln auf CloudFlare. Von der Kanti haben alle ein Informationsschreiben erhalten, welches sie den Bewerbungen beilegen sollen. Der Tipp eines IMS-Recruiter, OpenSource Projekte auf die Website zu stellen, die von anderen verwendet werden, hat Herr Nikolic umgesetzt. Er hat von der Kanti die Liste mit 80 Firmen. Dazu eine eigene Liste mit 50 Firmen und private Personen, die er wegen einer Stelle kontaktieren kann.
+  * Nach der IMS möchte er an die FH gehen für ein Studium im Bereich Cyber Security.
+  * Mit dem neuen Schuljahr und den Lehrpersonen und Themen ist er sehr zufrieden.
+
 * 13.02.2026: Gemeinsam mit Hr. Maag besprechen wir das aktuelle Programmierprojekt. Beide sind weiterhin sehr motiviert, Mods (Modifications) für Minecraft zu entwickeln:
   * Sie zeigen mir einerseits eine Textur, die sie für ein bestehendes Objekt (in Gimp) gezeichnet haben. Hier besteht das Problem, dass sie den Hintergrund noch nicht transparent speichern konnten.
   * In Intellij IDEA von NetBrains entwickeln sie neue Figuren. Mit z. B. Moves (Bewegungen), Texturen (klappt noch nicht) und Drop Items. Diese Figuren werden als jar files abgelegt. Minecraft Forge erstellt für die Integration passende Ablageorte. Das haben sie bisher noch nicht getestet. Start nur aus IDE heraus.
