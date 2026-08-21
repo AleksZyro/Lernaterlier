@@ -5,14 +5,14 @@ ich möchte Heute:
 1. Ich erstelle Heute das Allay-Skin Modell für die UMR-Mod
 2. Ich migriere Heute meine Website von Netlify auf meine eigene Domain und hoste diese über CloudFlare
 3. Ich arbeite an meinem Kundenprojekt für Aargo Clean GMBH weiter
-4. Ich beginne Heute mit dem Bewerben, 3 Schriftliche Bewerbungen und 3 Spontanbewerbungen per Telefonat.
+4. Ich beginne Heute mit dem schriftlichen Bewerben, 3 Schriftliche Bewerbungen und 3 Spontanbewerbungen per Telefonat.
 5. Einen Schlüssel eines absofort.ch Kurses beim Herr Fiechter beantragen.
 
 ## Reflexion
-1.
-2.
-3.
-4. 
+1. Ziel erreicht
+2. Ziel nicht erreicht
+3. Ziel erreicht
+4. Ziel erreicht
 5. Ziel erreicht
 
 ## 14.08.2026
