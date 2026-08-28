@@ -6,8 +6,8 @@ ich möchte Heute:
 2. Umsetzung von den neuen glow squid in der UMR mit Andrin Maag
 
 ## Reflexion
-1.
-2.
+1. Ziel erreicht
+2. Ziel erreicht
 
 ## 21.08.2026
 ich möchte Heute:
