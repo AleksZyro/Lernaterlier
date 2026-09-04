@@ -8,10 +8,10 @@ ich möchte Heute:
 4. Für VSW von Botond und mir eine Desktop-App für das Backend der Browsererweiterung erstellen. 
  
 ## Reflexion
-1.
-2.
-3.
-4.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
+4. Ziel erreicht
 
 ## 28.08.2026
 ich möchte Heute:
