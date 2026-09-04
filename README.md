@@ -1,8 +1,21 @@
 ## Lernatelier ## 
 
+## 04.09.2026
+ich möchte Heute:
+1. Ich erstelle heute 3 schriftliche Bewerbungen und 3 spontane Bewerbungen per Telefonat.
+2. Ich optimiere heute mit Andrin Maag für UMR die Projektplanung. 
+3. Ich arbeite an meinem 2. Kundenprojekt für MM Transport & Assistance Mitic. weiter.
+4. Für VSW von Botond und mir eine Desktop-App für das Backend der Browsererweiterung erstellen. 
+ 
+## Reflexion
+1.
+2.
+3.
+4.
+
 ## 28.08.2026
 ich möchte Heute:
-1. Ich erstelle heute 3 Schriftliche Bewerbungen und 5 Spontanbewerbungen per Telefonat.
+1. Ich erstelle heute 3 schriftliche Bewerbungen und 5 spontane Bewerbungen per Telefonat.
 2. Umsetzung von den neuen glow squid in der UMR mit Andrin Maag
 
 ## Reflexion
