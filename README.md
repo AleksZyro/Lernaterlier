@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 16.10.2026
+ich möchte Heute:
+1. Ich löse die LB aus dem Modul 335 (bzw. ab Teilaufgabe 3 da ich den vorherigen Teil bereits fertig habe).
+2. Andrin Maag und ich testen unser gemeinsames Projekt "Agent Dock" und lösen pipeline Probleme.
+3. Ich schreibe 2-5 Bewerbungen an Unternehmen für eine Praktikumsstelle in der Applikationsentwicklung. 
+
+## Reflexion
+1.
+2.
+3.
+
 ## 04.09.2026
 ich möchte Heute:
 1. Ich erstelle heute 3 schriftliche Bewerbungen und 3 spontane Bewerbungen per Telefonat.
