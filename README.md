@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich schreibe 2-5 Bewerbungen an Unternehmen für eine Praktikumsstelle in der Applikationsentwicklung. 
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 04.09.2026
 ich möchte Heute:
