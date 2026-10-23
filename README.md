@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 23.10.2026
+ich möchte Heute: 
+1. Ich löse die LB aus dem Modul 324 mit Botond Csereklye.
+2. Ich schliesse das Projekt Agent_Dock von Andrin Maag und mir ab.
+3. Ich schreibe 2 Bewerbungen an Unternehmen für eine Praktikumsstelle in der Applikationsentwicklung.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 16.10.2026
 ich möchte Heute:
 1. Ich löse die LB aus dem Modul 335 (bzw. ab Teilaufgabe 3 da ich den vorherigen Teil bereits fertig habe).
