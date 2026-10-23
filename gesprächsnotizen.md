@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 23.10.2026: Er Nikolic hat 12 Bewerbungen verschickt. 6 initiativ und 6 auf Inserate. 8 Absagen hat er bisher erhalten. Ich ermutige ihn, nach dem Grund zu fragen. 4 sind noch offen. Ich empfehle ihm, nach etwa 2 Wochen telefonisch nachzufragen. Herr Nikolic hat eine Liste mit Personen, über die er allenfalls eine Stelle bekommen könne. Wie soll er vorgehen? Ich empfehle ihm, ein oder zwei Personen zu wählen und diese z. B. zu fragen, ob ihre Firma Praktikumsplätze für IMS-Lernende anbiete. Dann ist es ihnen überlassen, ob sie Herrn Nikolic empfehlen und wie weit sie dabei helfen. Viel Erfolg!
+
 * 21.08.2026:
   * Die Bewerbung für das Praktikum steht im Moment im Vordergrund bei Herrn Nikolic. Er hat 5 Telefonanrufe gemacht im Rahmen von Spontanbewerbungen. Ansonsten sind seine Unterlagen noch nicht vollständig: Das Begleitschreiben und die Portfolio-Website sind nicht fertig. Er versucht, zu priorisieren und die Site fertig zu stellen. Und zu zügeln auf CloudFlare. Von der Kanti haben alle ein Informationsschreiben erhalten, welches sie den Bewerbungen beilegen sollen. Der Tipp eines IMS-Recruiter, OpenSource Projekte auf die Website zu stellen, die von anderen verwendet werden, hat Herr Nikolic umgesetzt. Er hat von der Kanti die Liste mit 80 Firmen. Dazu eine eigene Liste mit 50 Firmen und private Personen, die er wegen einer Stelle kontaktieren kann.
   * Nach der IMS möchte er an die FH gehen für ein Studium im Bereich Cyber Security.
