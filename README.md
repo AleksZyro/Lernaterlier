@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 30.10.2026
+ich möchte Heute:
+1. Ich arbeite weiter an der LB aus dem Modul 324 mit Botond Csereklye.
+2. Ich erstelle neue Texturen für UMR
+3. Ich rufe heute 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 23.10.2026
 ich möchte Heute: 
 1. Ich löse die LB aus dem Modul 324 mit Botond Csereklye.
