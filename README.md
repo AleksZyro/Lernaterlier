@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich rufe heute 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen.
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 23.10.2026
 ich möchte Heute: 
