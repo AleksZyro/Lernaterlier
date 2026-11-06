@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 06.11.2026
+ich möchte Heute:
+1. Ich rufe heute 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen.
+2. Ich erstelle neue Texturen für UMR
+3. Agent Dock mit Codex Skills bestücken (Projekt mit Andrin Maag)
+
+## Reflexion
+1.
+2.
+3.
+
 ## 30.10.2026
 ich möchte Heute:
 1. Ich arbeite weiter an der LB aus dem Modul 324 mit Botond Csereklye.
